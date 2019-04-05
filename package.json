@@ -1,0 +1,19 @@
+{
+  "name": "game0",
+  "version": "1.0.0",
+  "description": "This is me trying to make a canvas game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "jareem",
+    "test"
+  ],
+  "author": "DemiG.od",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
